@@ -4,7 +4,7 @@ set window-title-basename true
 set statusbar-home-tilde  true
 set recolor               false
 set selection-clipboard   clipboard
-set font "Ubuntu Medium"
+set font "Iosevka Nerd Font Mono"
 
 # LAYOUT SETTINGS
 # ---------------
